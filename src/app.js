@@ -1,3 +1,4 @@
+//PARA INICIAR LA APLICACION :-> npm run dev
 //Instancia de los modulos a usar
 const express = require('express');
 const path = require('path');
